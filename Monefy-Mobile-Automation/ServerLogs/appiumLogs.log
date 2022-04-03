@@ -1,0 +1,4 @@
+2022-04-03 15:00:28:217 [Appium] Welcome to Appium v1.17.0
+2022-04-03 15:00:28:219 [Appium] Non-default server args:
+2022-04-03 15:00:28:219 [Appium]   logFile: /Users/vigneshs/Vignesh-Personal-Folder/Projects-Repos/N26-Home-Assignment/Vignesh-S-N26-HomeAssignment/Monefy-Mobile-Automation/ServerLogs/appiumLogs.log
+2022-04-03 15:00:28:259 [HTTP] Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.
